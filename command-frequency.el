@@ -31,10 +31,10 @@
 ;;{{{ INSTALLATION
 ;; To install this package, do the following:
 ;; 1. Save this file in your favorite dir. For example: 
-;;    “~/Documents/emacs/command-frequency.el”
+;;    “~/emacs.d/command-frequency.el”
 ;; 2. put the following line in your “.emacs” file:
 ;;   ;; make emacs aware of the file path
-;;   (add-to-list 'load-path "~/Documents/emacs")
+;;   (add-to-list 'load-path "~/emacs.d/")
 ;;
 ;;   ;; make emacs aware of this package
 ;;   (require 'command-frequency)
