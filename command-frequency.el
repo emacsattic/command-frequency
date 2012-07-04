@@ -25,7 +25,7 @@
 ;; which commands you use the most often.
 ;;
 ;; It is used in designing a ergonomic keybinding set.
-;; See http://xahlee.org/emacs/command-frequency.html
+;; See http://ergoemacs.org/emacs/command-frequency.html
 ;;}}}
 
 ;;{{{ INSTALLATION
